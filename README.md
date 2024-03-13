@@ -1,4 +1,5 @@
 # Welcome to Astromnl Blog Template
+HOLA
 
 A simple blog built using [Astro](https://astro.build)
 
